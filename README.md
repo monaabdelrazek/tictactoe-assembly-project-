@@ -18,13 +18,8 @@ This is a simple console-based Tic-Tac-Toe game written in x86 assembly language
 ## Rules
 
 - Win by forming a line, column, or diagonal of three of your symbols.
+- 
 
-## Files
-
-- `tictactoe.asm`: Main assembly code.
-- `README.md`: Documentation.
-
-
-## Credits
+## Credits     
 
 Author: [Mona Abdelrazek Abdelrazek & Moaz Mohamed Ragab]
